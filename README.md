@@ -1,4 +1,4 @@
-# JogoFacef1
+
 
 Esse é um jogo de ataque, onde o personagem principal (“Fada”) é atacado por diversos goblins, ele possui um banco de dados que salva a pontuação do player, que é conquistada pela quantidade de ataque aos goblins que ele fizer. 
 
@@ -10,12 +10,14 @@ Ataque: Para atacar os goblins você precisa apertar com o botão esquerdo do mo
 
 
 Segue algumas das sprites utilizadas no jogos: 
+![star](https://github.com/user-attachments/assets/f75a366c-faf8-48c5-861d-3c6a5a04360c)
+![Captura de tela 2025-04-30 194427](https://github.com/user-attachments/assets/c75d688b-2687-4e96-9a79-41d57ac7a5de)
+![Captura de tela 2025-04-30 194304](https://github.com/user-attachments/assets/35eec580-0a48-4d44-9231-6323524f82a8)
 
 
 Link para acesso ao jogo: 
 
-Repositório do github: 
-
+https://incomparable-youtiao-52b7c4.netlify.app/
 
 Banco de dados funcionando: 
 ![dados](https://github.com/user-attachments/assets/35affe65-be84-444d-82e1-c540352d5cf0)
